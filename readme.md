@@ -14,10 +14,11 @@ El objetivo principal fue aplicar conocimientos sobre:
 
 # 🖥️ Live Preview
 
-<img width="1890" height="900" alt="image" src="https://github.com/user-attachments/assets/7230014a-daf9-4e50-a7c2-60520a217b9a" />
+<img width="1602" height="899" alt="image" src="https://github.com/user-attachments/assets/dd212989-c0d3-4478-9db3-633f7da90177" />
 
 
-👉 https://remigio96.github.io/Inmobiliaria-ADL-Objetos-y-Arreglos-JS/
+
+👉 [https://remigio96.github.io/Inmobiliaria-ADL-Objetos-y-Arreglos-JS/](https://remigio96.github.io/Inmobiliaria-ADL-Objetos-y-Arreglos-JS/)
 
 ---
 
